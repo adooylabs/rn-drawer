@@ -1,0 +1,51 @@
+{
+  "name": "rn-drawer",
+  "version": "0.0.1",
+  "description": "react-native drawer",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adooylabs/rn-drawer.git"
+  },
+  "keywords": [
+    "react-native",
+    "drawer"
+  ],
+  "author": "Audee Velasco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adooylabs/rn-drawer/issues"
+  },
+  "homepage": "https://github.com/adooylabs/rn-drawer#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-native": "^0.61.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/runtime": "^7.7.7",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "@types/history": "^4.7.3",
+    "@types/jest": "^24.0.25",
+    "@types/react": "^16.9.17",
+    "@types/react-native": "^0.60.11",
+    "@types/react-test-renderer": "^16.9.1",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.3.0",
+    "husky": "^3.0.5",
+    "jest": "^24.9.0",
+    "lint-staged": "^9.2.5",
+    "metro-react-native-babel-preset": "^0.56.4",
+    "react-native-testing-library": "^1.11.1",
+    "react-test-renderer": "16.8.6",
+    "rimraf": "^3.0.0",
+    "tslint": "^5.19.0",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-eslint-rules": "^5.4.0",
+    "tslint-react": "^4.0.0",
+    "typescript": "^3.7.4"
+  }
+}
